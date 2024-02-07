@@ -13,6 +13,14 @@
 
 -I am learning Docker, coz I wanna use containers!!
 
+- 🔭 I’m currently working on an Inventory management system
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on any machine learning project
+- 💬 Ask me about Linux
+- 📫 How to reach me: 👇👇
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Happiness is such a huge joke, let's laugh at it!!
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -33,13 +41,7 @@
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an Inventory management system
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on any machine learning project
-- 💬 Ask me about Linux
-- 📫 How to reach me: ☝️☝️
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Happiness is such a huge joke, let's laugh at it!!
+
+
 -->
