@@ -1,15 +1,15 @@
 <h1>Hi, I'm Joe! <br/></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 I am a Front End Developer</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>Also, I am a cybersecurity enthusiast</h2>
+-I love Linux and everything that comes with it!
+-WireShark, BurpSuite, nmap, Nessus, all those hacking tools!
+-That is to say I love ethical hacking.
+-I wanna become a cybersecurity analyst.
+
+-I am learning Docker, coz I wanna use containers!!
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
