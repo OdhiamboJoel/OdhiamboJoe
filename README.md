@@ -4,8 +4,11 @@
 
 <h2>Also, I am a cybersecurity enthusiast</h2>
 -I love Linux and everything that comes with it!
+
 -WireShark, BurpSuite, nmap, Nessus, all those hacking tools!
+
 -That is to say I love ethical hacking.
+
 -I wanna become a cybersecurity analyst.
 
 -I am learning Docker, coz I wanna use containers!!
